@@ -9,7 +9,8 @@ w2s.login(username,password)
 w2s.send(mobile_number,'hello numspy testing')
 
 # find details
-w2s.details(mobile_number)
+w2s.details(8053356052)
 
 # logout
+
 w2s.logout()
